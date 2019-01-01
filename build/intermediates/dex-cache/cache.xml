@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\johnson mendonca\Documents\project\MarioBros\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="10e19de3087ae1f7c28698db4d5d879de0a33f3b">
+        <dex dex="C:\Users\johnson mendonca\Documents\project\MarioBros\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f2d39ace190b8e50cb34205cc7937f0395b3137d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\johnson mendonca\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="C:\Users\johnson mendonca\Desktop\MarioBros\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.5_e3e6376c26c8d093c66b2c5fdc21e529880c444d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\johnson mendonca\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.5\c8098219abfe00b849cc43d461b1105fea3a2944\gdx-box2d-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="C:\Users\johnson mendonca\Desktop\MarioBros\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.5_6ab7fb90ca7272d4b736e03941e259f455b1797e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\johnson mendonca\Documents\project\MarioBros\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a045c3b7fa301e68e9936368bd35f54ba73908c6">
+        <dex dex="C:\Users\johnson mendonca\Documents\project\MarioBros\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4d4854fdb1041afa2ed896df6ea2f0f08d1ab4e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\johnson mendonca\Desktop\MarioBros\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51491b79382be71af4c80846fbf1f0717b6dce4a">
+        <dex dex="C:\Users\johnson mendonca\Desktop\MarioBros\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cf69bd5a64d55e5a976356ac646be8a79aebb160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\johnson mendonca\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="C:\Users\johnson mendonca\Desktop\MarioBros\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.5_1c144256a0abac7078ad2aba3bfa29001a6d58bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\johnson mendonca\Desktop\MarioBros\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a41dcb947431139e95469e80710ab31ecbb503c2">
+        <dex dex="C:\Users\johnson mendonca\Desktop\MarioBros\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_51d545c967f680e73d1c01e73d48e91ed52ed492\classes.dex" />
+    </item>
+
+</items>
